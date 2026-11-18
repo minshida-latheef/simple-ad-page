@@ -32,5 +32,5 @@ A beginner-friendly product advertisement landing page built with vanilla HTML, 
 
 2\. Open `index.html` in any web browser.
 
-
+[click to view](https://minshida-latheef.github.io/simple-ad-page/)
 
